@@ -13,15 +13,13 @@ It is a simple web-based project that mimics the design and basic functionality 
 - Dynamic display area for showing responses <br>
 - Beginner-friendly project structure <br>
 
-<b>Technologies Used</b> <br>
+## <b>Technologies Used</b> <br>
 
-<b>React</b> <br>
+- <b>React</b> <br>
+- <b>HTML</b> <br>
+- <b>CSS</b> <br>
+- <b>JavaScript (ES6+)</b> <br>
+## <b>Status</b> <br>
 
-<b>HTML</b> <br>
-
-<b>CSS</b> <br>
-
-<b>JavaScript (ES6+)</b> <br>
-<b>Status</b> <br>
-
-This project is for <b>learning purposes only</b> and is not connected to Google's official Gemini AI. <br>
+- This project is created <b>for learning purposes only</b>. <br>
+- It is <b>not connected</b> to or affiliated with Google's official Gemini AI. <br>
