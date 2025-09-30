@@ -2,6 +2,7 @@
 
 This is a <b>Gemini AI Clone</b> built using <b>React</b>, along with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>. <br>
 It is a simple web-based project that mimics the design and basic functionality of Google's Gemini AI interface. <br>
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/194feeaf-ebaa-4e0e-b308-d940fbbac1b2" />
 
 ---
 
